@@ -1,0 +1,41 @@
+body{
+  background-color: #ccc;
+}
+
+.resultado{
+  text-align: right;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: solid 2px #007bff;
+  box-shadow: 1px 1px 5px #007bff;
+}
+
+.calculadora {
+  margin-top: 40px;
+  border: solid 10px #fff;
+  padding: 20px;
+  background-color: #ccc;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px #000;
+}
+
+.btn {
+  width: 60px;
+  height: 50px;
+  margin: 5px;
+  box-shadow: 1px 1px 5px #fff;
+}
+
+
+.igual{
+  height: 110px;
+}
+
+.ultima {
+  margin-top: -60px;
+}
+
+.zero{
+  width: 200px;
+}
